@@ -1,0 +1,22 @@
+{
+  "name": "docker",
+  "version": "1.0.0",
+  "description": "把一个node项目docker化",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kexinWeb/node-docker.git"
+  },
+  "author": "colaliu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kexinWeb/node-docker/issues"
+  },
+  "homepage": "https://github.com/kexinWeb/node-docker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
